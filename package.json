@@ -1,0 +1,19 @@
+{
+  "name": "ch-14-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnhughes814/CH-14-MVC.git"
+  },
+  "author": "John Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnhughes814/CH-14-MVC/issues"
+  },
+  "homepage": "https://github.com/Johnhughes814/CH-14-MVC#readme"
+}
