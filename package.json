@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Johnhughes814/CH-14-MVC/issues"
   },
-  "homepage": "https://github.com/Johnhughes814/CH-14-MVC#readme"
+  "homepage": "https://github.com/Johnhughes814/CH-14-MVC#readme",
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.3",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "express-session": "^1.17.2",
+    "handlebars": "^4.7.7",
+    "path": "^0.12.7",
+    "sequelize": "^6.19.0"
+  }
 }
