@@ -5,7 +5,8 @@
 ## Description
 A blog that allows users to login, submit posts, comment on posts, and delete posts. Data is stored in a DB so all comments and are accessible to all client. 
 
-### ![DEMO_IMAGE_OR_MOVIE](ENTER_URL)
+[![DEMO](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png)](https://stark-fjord-69613.herokuapp.com/)
+
 
 <img src="ENTER_URL" width="IDEAL_PERCENT%"/>
 
